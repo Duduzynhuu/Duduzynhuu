@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Duduzynhuu
-- 👀 I’m interested in Developing cool websites
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on anything that can help me grown and learn
+- 👋 Hi, I’m José Eduardo
+- 👀 I’m interested in Developing and improving my skills in software development
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on cool and challenging projects that can help me grown and learn
 - 📫 How to reach me duduzynhuuu@gmail.com
 
 <!---
